@@ -1,0 +1,33 @@
+
+int* check_diff(int* a, int* b, int& nums);
+
+const int SIZE = 8;
+
+int main(){
+	int* array1[] = {'A', 'D', 'C', 'B', 'B', 'A', 'C', 'A'};
+	int* array2[] = {'A', 'A', 'C', 'B', 'A', 'A', 'B', 'A'};
+	
+}
+
+int* check_diff(int* a, int* b, int& nums){
+	int count = 0;
+
+	for (int i = 0; i < SIZE; i++){
+		if (a[i] != b[i]){
+			count++;
+		}
+	}
+	
+	int* diff = new int[count];
+	int diffindex = 0;
+	
+	for (int i = 0; i < SIZE; i++){
+		if (a[i] != b[i]){
+			diff[diffindex] = i;
+			diffindex++;
+		}
+	}
+	
+	return diff;
+	
+} 
