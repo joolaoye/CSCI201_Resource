@@ -1,6 +1,9 @@
 Script started on Wed 08 Nov 2023 01:18:46 PM CST
-]0;fg2784fh@csci4:~/LAB/LAB12[?1034h[fg2784fh@csci4 LAB12]$ clearnano EmployeeListTest.cppclear[Knano EmployeeList.cpp[14P./a.outg++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kg++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp
-^[[A]0;fg2784fh@csci4:~/LAB/LAB12[fg2784fh@csci4 LAB12]$ g++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Knano EmployeeListTest.cppclear[Knano EmployeeListTest.cppclear[Knano EmployeeListTest.cppclear[Knano EmployeeListTest.cppclear[Knano EmployeeList.cpp[14P./a.outg++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+]0;********@csci4:~/LAB/LAB12[?1034h[********@csci4 LAB12]$ clearnano EmployeeListTest.cppclear[Knano EmployeeList.cpp[14P./a.outg++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp
+[C[C[********[C[C[C[C[C[C[C********C[C[C[C[C[C[C[C[C[Cclear[Kg++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp
+^[[A]0;fg2784fh@csci4:~/LAB/LAB12[fg2784fh@csci4 LAB12]$ g++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Knano EmployeeListTest.cppclear[Knano EmployeeListTest.cppclear[Knano EmployeeListTest.cppclear[Knano EmployeeListTest.cppclear[Knano EmployeeList.cpp[14P./a.outg++ Employee.cpp EmployeeList.cpp EmployeeListTest.cpp
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
 Enter Employee you will like to add
 ID: 1
 First name: Joe
@@ -57,7 +60,7 @@ Change last name? y
 Enter last name: Big
 last name  changed!
 Change rate? y
-Enter rate: 12
+Ente********12********
 rate changed!
 Change hours? n
 ]0;fg2784fh@csci4:~/LAB/LAB12[fg2784fh@csci4 LAB12]$ exit

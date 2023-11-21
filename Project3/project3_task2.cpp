@@ -8,7 +8,7 @@ The program keeps prompting user for input until user hits "Ctrl + d".
 The program then display a message on how to access the file. 
 
 Name: Joshua O Olaoye
-StarID: fg2784fh
+StarID: ********
 Section Number: 03  
 */
 

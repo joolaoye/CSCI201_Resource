@@ -7,7 +7,7 @@ If it doesn't exist, the program displays an error message then exits.
 If it exist, the program displays each score in the file, computes the average, then display this average to the user.
 
 Name: Joshua O Olaoye
-StarID: fg2784fh
+StarID: ********
 Section Number: 03
 */
 

@@ -27,7 +27,7 @@ Display Employee Database
     * If the user enters '6', the program displays an exit message and terminates
 
 Name: Joshua O Olaoye
-StarID: fg2784fh
+StarID: ********
 Section Number: 03
 */
 
