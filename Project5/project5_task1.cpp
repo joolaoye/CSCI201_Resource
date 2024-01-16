@@ -1,8 +1,4 @@
 /*
-Driver License Examination System
-Name: Joshua O Olaoye
-starID: ********
-Section Number: 03
 
 Description:
 This program simulates a Driver's License Exam

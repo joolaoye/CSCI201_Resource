@@ -6,9 +6,6 @@ Then it checks if this file inputed exists.
 If it doesn't exist, the program displays an error message then exits.
 If it exist, the program displays each score in the file, computes the average, then display this average to the user.
 
-Name: Joshua O Olaoye
-StarID: ********
-Section Number: 03
 */
 
 #include <iostream> // Handles I/O Operations

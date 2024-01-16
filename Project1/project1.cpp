@@ -3,10 +3,6 @@ It prompts user for quantities of items purchased from a list of 5 items.
 It then uses these user inputs to compute the total cost of each item, the subtotal of each unit cost, a 7% tax, and the total bill.
 It then displays this breakdown in a well-formatted table.
 
-Name : Joshua O Olaoye
-StarID: ********
-Due date: 09/05/2023
-Instructor: Jie Meicshner
 */
 
 

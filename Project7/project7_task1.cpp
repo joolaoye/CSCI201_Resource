@@ -1,10 +1,6 @@
 /*
 Payroll System
 
-Name: Joshua O Olaoye
-starID: ********
-Section Number: 03
-
 Description:
 This program simulates a Payroll System for XXXX Company. It allows users to create, modify,
 delete, and display employee information. The data can be stored in a file named "xxxxx.dat"

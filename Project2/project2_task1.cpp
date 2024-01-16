@@ -1,8 +1,5 @@
 /*
 Math Tutor Program
-Name: Joshua O Olaoye
-starID: ********
-Section Number: 03
 
 Description:
 This program simulates a math tutor for a young student.

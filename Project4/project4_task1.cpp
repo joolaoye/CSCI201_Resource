@@ -9,9 +9,6 @@ If the user enters ‘n’, the program displays a message on how to access the 
 Else if user enters ‘y’, the program repeats the steps that precede the decision point.  
 Else the program exits abruptly.
 
-Name: Joshua O Olaoye
-StarID: ********
-Section Number: 03
 */
 
 #include <iostream> // Included for I/O operations

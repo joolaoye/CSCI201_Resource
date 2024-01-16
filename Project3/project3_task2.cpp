@@ -7,9 +7,6 @@ If the user enters a number not in the range of 0 ~ 100, the program reprompt th
 The program keeps prompting user for input until user hits "Ctrl + d".  
 The program then display a message on how to access the file. 
 
-Name: Joshua O Olaoye
-StarID: ********
-Section Number: 03  
 */
 
 #include <iostream> // Handles I/O operations

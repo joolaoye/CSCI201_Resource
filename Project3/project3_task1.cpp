@@ -4,9 +4,6 @@ If the user’s guess is higher than the random number, the program displays “
 If the user’s guess is lower than the random number, the program displays “Too low, try again.”   
 When the user correctly guesses the random number, the program displays the number of guesses. 
 
-Name: Joshua O Olaoye
-StarID: ********
-Section Number: 03
 */
 
 #include <iostream> // Handles I/O operations
