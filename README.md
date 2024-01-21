@@ -2,8 +2,6 @@
 <a href="https://github.com/joolaoye/CSCI201_Resource/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a> &nbsp; <a href=""><img src="https://img.shields.io/badge/Open Source-red.svg"/></a>
 </p>
 
-Before using any resource in this repository, make sure to read CSCI201's Academic policy [here]()
-
 ## Table of Contents
 - [Labs](#lab)
 - [Projects](#projects)
